@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.AssemblyInfo.cs
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\bin\Debug\netcoreapp2.1\HT home build.deps.json
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\bin\Debug\netcoreapp2.1\HT home build.runtimeconfig.json
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\bin\Debug\netcoreapp2.1\HT home build.runtimeconfig.dev.json
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\bin\Debug\netcoreapp2.1\HT home build.dll
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\bin\Debug\netcoreapp2.1\HT home build.pdb
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.dll
+C:\Users\User\Desktop\Step\C#\HT home build\HT home build\obj\Debug\netcoreapp2.1\HT home build.pdb
