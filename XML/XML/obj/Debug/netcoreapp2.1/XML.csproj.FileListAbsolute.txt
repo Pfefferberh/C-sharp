@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Step\C#\XML\XML\bin\Debug\netcoreapp2.1\XML.deps.json
+C:\Users\User\Desktop\Step\C#\XML\XML\bin\Debug\netcoreapp2.1\XML.runtimeconfig.json
+C:\Users\User\Desktop\Step\C#\XML\XML\bin\Debug\netcoreapp2.1\XML.runtimeconfig.dev.json
+C:\Users\User\Desktop\Step\C#\XML\XML\bin\Debug\netcoreapp2.1\XML.dll
+C:\Users\User\Desktop\Step\C#\XML\XML\bin\Debug\netcoreapp2.1\XML.pdb
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.AssemblyInfo.cs
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.dll
+C:\Users\User\Desktop\Step\C#\XML\XML\obj\Debug\netcoreapp2.1\XML.pdb
