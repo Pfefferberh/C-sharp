@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.AssemblyInfo.cs
+C:\Users\User\Desktop\Step\C#\Tel\Tel\bin\Debug\netcoreapp2.1\Tel.deps.json
+C:\Users\User\Desktop\Step\C#\Tel\Tel\bin\Debug\netcoreapp2.1\Tel.runtimeconfig.json
+C:\Users\User\Desktop\Step\C#\Tel\Tel\bin\Debug\netcoreapp2.1\Tel.runtimeconfig.dev.json
+C:\Users\User\Desktop\Step\C#\Tel\Tel\bin\Debug\netcoreapp2.1\Tel.dll
+C:\Users\User\Desktop\Step\C#\Tel\Tel\bin\Debug\netcoreapp2.1\Tel.pdb
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.dll
+C:\Users\User\Desktop\Step\C#\Tel\Tel\obj\Debug\netcoreapp2.1\Tel.pdb

@@ -28,7 +28,7 @@ namespace HW_Racer
             Game game = new Game();
             game.ShowAll();
             Console.WriteLine("=============================");
-           game.play(100);
+           game.play(300);
         }
     }
 }
