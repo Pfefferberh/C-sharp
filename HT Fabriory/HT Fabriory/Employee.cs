@@ -9,15 +9,10 @@ namespace HT_Fabriory
     class Employee
     {
 
-            string Name { get; set; } = "Name";
-            string Surname { get; set; }
-            int Age { get; set; }
-            decimal Salary { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public int Age { get; set; }
+        public decimal Salary { get; set; }
 
-            public string ReturnString()
-            {
-                return Name;
-            }
-        
     }
 }

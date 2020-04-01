@@ -6,22 +6,64 @@ namespace HT_Fabriory
 {
     partial class Factory
     {
-        int AvgSalary { get; set; }
-        int TotalSalary { get; set; }
-        Product[] product = new Product[15];
+        Product[] products;
+
+        public Factory(string name, int avg_salary, int total_salary, int gdp, int emp_count, int count_depart)
+        {
+            this.Name = name;
+            this.SetAvgSalary(avg_salary);
+            this.SetTotalSalary(total_salary);
+            this.SetGDP(gdp);
+            this.SetEmpCount(emp_count);
+
+            this.departments = new Department[count_depart];
+        }
+
         public string ReturnString()
         {
-            return Name;
+            return this.Name;
         }
 
-        partial void SetAvgSalary()
+        partial void SetAvgSalary(int avg)
         {
-            AvgSalary = 3500;
+            this.Avarege_Salary = avg;
+        }
+        partial void SetTotalSalary(int total)
+        {
+            this.Total_Salary = total;
+        }
+        partial void SetGDP(int gdp)
+        {
+            this.GDP = gdp;
+        }
+        partial void SetEmpCount(int empcount)
+        {
+            this.EmpCount = empcount;
         }
 
-        partial void SetTotalSalary()
+        public int Get_avg_salary()
         {
-            this.TotalSalary = this.AvgSalary * departments.Length + 1;
+            return this.Avarege_Salary;
         }
+        public int Get_Total_Salary()
+        {
+            return this.Total_Salary;
+        }
+        public int Get_GDP()
+        {
+            return this.GDP;
+        }
+        public int Get_Emp_Count()
+        {
+            return this.EmpCount;
+        }
+
+        public void Show_factory()
+        {
+            Console.WriteLine($" Name         : {this.Name}\n " +$"Avg salary   : {this.Avarege_Salary}\n " +$"Total salary : {this.Total_Salary}\n " +$"GDP          : {this.GDP}\n " +$"Emp couter   : {this.EmpCount}\n");
+        }
+
+      
+
     }
 }

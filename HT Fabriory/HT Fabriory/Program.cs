@@ -23,8 +23,8 @@ namespace HT_Fabriory
     {
         static void Main(string[] args)
         {
-            Factory factory = new Factory();
-            Console.WriteLine(factory.ReturnString());
+            var factory = new Factory("My FACTORY", 10, 20, 30, 5, 2);
+            factory.Show_factory();
         }
     }
 }

@@ -9,13 +9,13 @@ namespace HT_Fabriory
 {
     class Product
     {
-        string Name { get; set; }
-        int Size { get; set; }
-        double Prise { get; set; }
+        public string Name { get; set; } = "Product";
+        public int Size { get; set; }
+        public double Price { get; set; }
 
         public string ReturnString()
         {
-            return " ";
+            return Name;
         }
     }
 }

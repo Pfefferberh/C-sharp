@@ -8,10 +8,17 @@ namespace HT_Fabriory
 {
     partial class Factory
     {
-        string Name { get; set; }
-        Department[] departments = new Department[1];
+        string Name { get; set; } = "My Factory";
+        Department[] departments;
 
-        partial  void SetAvgSalary();
-        partial void SetTotalSalary();
+        int Avarege_Salary { get; set; }
+        int Total_Salary { get; set; }
+        int GDP { get; set; }
+        int EmpCount { get; set; }
+
+        partial void SetAvgSalary(int avg);
+        partial void SetTotalSalary(int total);
+        partial void SetGDP(int gdp);
+        partial void SetEmpCount(int empcount);
     }
 }
