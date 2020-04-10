@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\bin\Debug\HW(3 mini task).exe.config
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\bin\Debug\HW(3 mini task).exe
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\bin\Debug\HW(3 mini task).pdb
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\obj\Debug\HW(3 mini task).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\obj\Debug\HW(3 mini task).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\obj\Debug\HW(3 mini task).exe
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\HW(3 mini task)\obj\Debug\HW(3 mini task).pdb

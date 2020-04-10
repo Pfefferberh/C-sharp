@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\bin\Debug\victoruna.exe.config
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\bin\Debug\victoruna.exe
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\bin\Debug\victoruna.pdb
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\obj\Debug\victoruna.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\obj\Debug\victoruna.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\obj\Debug\victoruna.exe
+C:\Users\User\Desktop\Step\C#\HW(3 mini task)\victoruna\obj\Debug\victoruna.pdb
