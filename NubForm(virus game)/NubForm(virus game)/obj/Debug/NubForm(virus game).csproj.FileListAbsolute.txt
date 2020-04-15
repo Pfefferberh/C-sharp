@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\bin\Debug\NubForm(virus game).exe.config
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\bin\Debug\NubForm(virus game).exe
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\bin\Debug\NubForm(virus game).pdb
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm(virus game).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm_virus_game_.Properties.Resources.resources
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm(virus game).csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm(virus game).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm(virus game).exe
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm(virus game).pdb
+C:\Users\User\Desktop\Step\С#class work\NubForm(virus game)\NubForm(virus game)\obj\Debug\NubForm_virus_game_.Game.resources

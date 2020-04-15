@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\bin\Debug\PlanedTasks.exe.config
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\bin\Debug\PlanedTasks.exe
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\bin\Debug\PlanedTasks.pdb
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.Form1.resources
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.Properties.Resources.resources
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.exe
+C:\Users\User\Desktop\Step\С#class work\PlanedTasks\PlanedTasks\obj\Debug\PlanedTasks.pdb

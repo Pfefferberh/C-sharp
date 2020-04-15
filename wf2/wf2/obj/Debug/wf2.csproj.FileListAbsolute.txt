@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.Form1.resources
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.Properties.Resources.resources
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\bin\Debug\wf2.exe.config
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\bin\Debug\wf2.exe
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\bin\Debug\wf2.pdb
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.exe
+C:\Users\User\Desktop\Step\С#class work\wf2\wf2\obj\Debug\wf2.pdb

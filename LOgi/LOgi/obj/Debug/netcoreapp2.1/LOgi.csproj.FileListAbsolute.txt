@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\bin\Debug\netcoreapp2.1\LOgi.deps.json
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\bin\Debug\netcoreapp2.1\LOgi.runtimeconfig.json
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\bin\Debug\netcoreapp2.1\LOgi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\bin\Debug\netcoreapp2.1\LOgi.dll
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\obj\Debug\netcoreapp2.1\LOgi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\obj\Debug\netcoreapp2.1\LOgi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\obj\Debug\netcoreapp2.1\LOgi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Step\С#class work\LOgi\LOgi\obj\Debug\netcoreapp2.1\LOgi.AssemblyInfo.cs

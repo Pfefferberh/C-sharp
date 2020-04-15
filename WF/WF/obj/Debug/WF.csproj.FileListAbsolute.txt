@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Step\С#class work\WF\WF\bin\Debug\WF.exe.config
+C:\Users\User\Desktop\Step\С#class work\WF\WF\bin\Debug\WF.exe
+C:\Users\User\Desktop\Step\С#class work\WF\WF\bin\Debug\WF.pdb
+C:\Users\User\Desktop\Step\С#class work\WF\WF\obj\Debug\WF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\WF\WF\obj\Debug\WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\WF\WF\obj\Debug\WF.exe
+C:\Users\User\Desktop\Step\С#class work\WF\WF\obj\Debug\WF.pdb
