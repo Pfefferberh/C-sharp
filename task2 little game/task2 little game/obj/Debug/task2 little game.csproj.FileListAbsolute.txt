@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\bin\Debug\task2 little game.exe.config
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\bin\Debug\task2 little game.exe
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\bin\Debug\task2 little game.pdb
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2 little game.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2_little_game.Form1.resources
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2_little_game.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2 little game.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2 little game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2 little game.exe
+C:\Users\User\Desktop\Step\C#\task2 little game\task2 little game\obj\Debug\task2 little game.pdb
