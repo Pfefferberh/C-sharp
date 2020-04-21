@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Sudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameSt>Sergey</NameSt>
+  <Surname>Den</Surname>
+  <Sex>male</Sex>
+  <Birthday>1999-01-03T00:00:00</Birthday>
+</Sudent>

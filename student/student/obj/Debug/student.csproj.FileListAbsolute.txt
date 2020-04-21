@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\student\student\bin\Debug\student.exe.config
+C:\Users\User\Desktop\Step\C#\student\student\bin\Debug\student.exe
+C:\Users\User\Desktop\Step\C#\student\student\bin\Debug\student.pdb
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.exe
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.pdb
+C:\Users\User\Desktop\Step\C#\student\student\obj\Debug\student.Anketa.resources
