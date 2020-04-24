@@ -75,49 +75,107 @@ namespace Calculator
         bool point_ex = true;
         int temp = 0;
         string scrn_ = "";
+        string math = "";
         Double memb =0;
+        Double memb_two =0;
+        Double res =0;
+
         public Calculator()
         {
             InitializeComponent();
         }
 
-        private void but0_MouseClick(object sender, MouseEventArgs e)
-        {
-            scrn_ = screen.Text + "0";
-            memb = Convert.ToDouble(scrn_);
-
-            screen_TextChanged(null, null);
-        }
-
-        private void but1_MouseClick(object sender, MouseEventArgs e)
-        {         
-            scrn_ = screen.Text + "1";
-            memb = Convert.ToDouble(scrn_);
-
-            screen_TextChanged(null, null);
-        }
-
         private void screen_TextChanged(object sender, EventArgs e)
         {
-            if (!point_ex) { 
+            res = Convert.ToDouble(scrn_);
+            if (!point_ex)
+            {
                 screen.Text = scrn_;
-                Text = memb.ToString();
+                Text = res.ToString();
             }
             else
-            screen.Text = memb.ToString();
+                screen.Text = res.ToString();
         }
-       
-        private void point_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (point_ex)
-            {
-                temp = memb.ToString().Length;
-                scrn_ = memb.ToString().Insert(temp, ",");
-            }
-           
-            point_ex = false;
 
+        private void but_MouseClick(object sender, MouseEventArgs e)
+        {
+            switch ((sender as Button).Name)
+            {
+                case "but0":    scrn_ = screen.Text + "0";
+                    break;
+                case "but1":    scrn_ = screen.Text + "1";
+                    break;
+                case "but2":    scrn_ = screen.Text + "2";
+                    break;
+                case "but3":    scrn_ = screen.Text + "3";
+                    break;
+                case "but4":    scrn_ = screen.Text + "4";
+                    break;
+                case "but5":    scrn_ = screen.Text + "5";
+                    break;
+                case "but6":    scrn_ = screen.Text + "6";
+                    break;
+                case "but7":    scrn_ = screen.Text + "7";
+                    break;
+                case "but8":    scrn_ = screen.Text + "8";
+                    break;
+                case "but9":    scrn_ = screen.Text + "9";
+                    break;
+                case "point":
+                    if (point_ex)
+                    {
+                        temp = res.ToString().Length;
+                        scrn_ = res.ToString().Insert(temp, ",");
+                    }
+                    point_ex = false;
+                    break;
+                case "but_pos_neg":
+                    res *= -1;
+                    scrn_ = res.ToString();
+                    break;
+                case "plus":    math = "+";
+                    restart();
+                    break;
+                case "minus":   math = "-";
+                    restart();
+                    break;
+                case "multi":   math = "*";
+                    restart();
+                    break;
+                case "divate":  math = "/";
+                    restart();
+                    break;
+                case "resal":
+                    memb_two = res;
+                    if (math == "+")
+                        res = memb + memb_two;
+                    else if (math == "-")
+                        res = memb - memb_two;
+                    else if(math == "*")
+                        res = memb * memb_two;
+                    else if(math == "/")
+                    {
+                        if (memb_two == 0)
+                            MessageBox.Show("Divade on 0 !\nEnterdigit two");
+                        else
+                            res = memb / memb_two;
+                    }
+                    scrn_ = res.ToString();
+                    break;
+                default:
+                    break;
+            }
+            
             screen_TextChanged(null, null);
         }
+
+       void restart()
+       {
+            memb = res;
+            res = 0;
+            scrn_ = "0";
+            point_ex = true;
+       }
+
     }
 }

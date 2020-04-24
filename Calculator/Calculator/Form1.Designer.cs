@@ -59,7 +59,7 @@
             this.but1.TabIndex = 3;
             this.but1.Text = "1";
             this.but1.UseVisualStyleBackColor = true;
-            this.but1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but1_MouseClick);
+            this.but1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but2
             // 
@@ -69,6 +69,7 @@
             this.but2.TabIndex = 4;
             this.but2.Text = "2";
             this.but2.UseVisualStyleBackColor = true;
+            this.but2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but3
             // 
@@ -78,6 +79,7 @@
             this.but3.TabIndex = 5;
             this.but3.Text = "3";
             this.but3.UseVisualStyleBackColor = true;
+            this.but3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but4
             // 
@@ -87,6 +89,7 @@
             this.but4.TabIndex = 6;
             this.but4.Text = "4";
             this.but4.UseVisualStyleBackColor = true;
+            this.but4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but5
             // 
@@ -96,6 +99,7 @@
             this.but5.TabIndex = 7;
             this.but5.Text = "5";
             this.but5.UseVisualStyleBackColor = true;
+            this.but5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but6
             // 
@@ -105,6 +109,7 @@
             this.but6.TabIndex = 8;
             this.but6.Text = "6";
             this.but6.UseVisualStyleBackColor = true;
+            this.but6.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but7
             // 
@@ -114,6 +119,7 @@
             this.but7.TabIndex = 9;
             this.but7.Text = "7";
             this.but7.UseVisualStyleBackColor = true;
+            this.but7.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but8
             // 
@@ -123,6 +129,7 @@
             this.but8.TabIndex = 10;
             this.but8.Text = "8";
             this.but8.UseVisualStyleBackColor = true;
+            this.but8.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but9
             // 
@@ -132,6 +139,7 @@
             this.but9.TabIndex = 11;
             this.but9.Text = "9";
             this.but9.UseVisualStyleBackColor = true;
+            this.but9.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but0
             // 
@@ -141,7 +149,7 @@
             this.but0.TabIndex = 0;
             this.but0.Text = "0";
             this.but0.UseVisualStyleBackColor = true;
-            this.but0.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but0_MouseClick);
+            this.but0.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // point
             // 
@@ -151,7 +159,7 @@
             this.point.TabIndex = 1;
             this.point.Text = ".";
             this.point.UseVisualStyleBackColor = true;
-            this.point.MouseClick += new System.Windows.Forms.MouseEventHandler(this.point_MouseClick);
+            this.point.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // but_pos_neg
             // 
@@ -161,6 +169,7 @@
             this.but_pos_neg.TabIndex = 2;
             this.but_pos_neg.Text = "Positive/ Negative";
             this.but_pos_neg.UseVisualStyleBackColor = true;
+            this.but_pos_neg.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // screen
             // 
@@ -180,6 +189,7 @@
             this.plus.TabIndex = 13;
             this.plus.Text = "+";
             this.plus.UseVisualStyleBackColor = true;
+            this.plus.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // minus
             // 
@@ -189,6 +199,7 @@
             this.minus.TabIndex = 14;
             this.minus.Text = "-";
             this.minus.UseVisualStyleBackColor = true;
+            this.minus.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // divate
             // 
@@ -198,6 +209,7 @@
             this.divate.TabIndex = 15;
             this.divate.Text = "/";
             this.divate.UseVisualStyleBackColor = true;
+            this.divate.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // multi
             // 
@@ -207,6 +219,7 @@
             this.multi.TabIndex = 16;
             this.multi.Text = "*";
             this.multi.UseVisualStyleBackColor = true;
+            this.multi.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // resal
             // 
@@ -216,6 +229,7 @@
             this.resal.TabIndex = 17;
             this.resal.Text = "=";
             this.resal.UseVisualStyleBackColor = true;
+            this.resal.MouseClick += new System.Windows.Forms.MouseEventHandler(this.but_MouseClick);
             // 
             // button2
             // 
