@@ -89,12 +89,10 @@ namespace Calculator
         {
             res = Convert.ToDouble(scrn_);
             if (!point_ex)
-            {
-                screen.Text = scrn_;
-                Text = res.ToString();
-            }
+                   screen.Text = scrn_;
             else
-                screen.Text = res.ToString();
+                   screen.Text = res.ToString();
+
         }
 
         private void but_MouseClick(object sender, MouseEventArgs e)
@@ -156,11 +154,40 @@ namespace Calculator
                     else if(math == "/")
                     {
                         if (memb_two == 0)
-                            MessageBox.Show("Divade on 0 !\nEnterdigit two");
+                            MessageBox.Show("Divade on 0 !\nEnter digit two!!");
                         else
                             res = memb / memb_two;
                     }
                     scrn_ = res.ToString();
+                    break;
+                case "back":
+                    if (scrn_.LastOrDefault() == ',')
+                    {
+                        scrn_ = scrn_.Remove(scrn_.Length - 1, 1);
+                        point_ex = true;
+                    }
+                    else if (scrn_.Length > 0)
+                        scrn_ = scrn_.Remove(scrn_.Length - 1, 1);
+                    if (scrn_.Length == 0 || scrn_=="-")
+                    {
+                        scrn_ = "0";
+                        screen.Text = "";
+                        point_ex = true;
+                    }
+                    break;
+                case "BackSkr":
+                    scrn_ = scrn_.Remove(0, scrn_.Length - 1);
+                    scrn_ = "0";
+                    point_ex = true;
+                    break;
+                case "ClearAll":
+                     point_ex = true;
+                     temp = 0;
+                     scrn_ = "0";
+                     math = "";
+                     memb = 0;
+                     memb_two = 0;
+                     res = 0;
                     break;
                 default:
                     break;
@@ -176,6 +203,5 @@ namespace Calculator
             scrn_ = "0";
             point_ex = true;
        }
-
     }
 }
