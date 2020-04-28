@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\bin\Debug\ANKETAs.exe.config
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\bin\Debug\ANKETAs.exe
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\bin\Debug\ANKETAs.pdb
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.Anketa.resources
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.exe
+C:\Users\User\Desktop\Step\C#\ANKETAs\ANKETAs\obj\Debug\ANKETAs.pdb
