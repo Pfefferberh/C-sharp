@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\bin\Debug\GameCommand.exe.config
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\bin\Debug\GameCommand.exe
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\bin\Debug\GameCommand.pdb
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.Form1.resources
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.exe
+C:\Users\User\Desktop\Step\C#\GameCommand\GameCommand\obj\Debug\GameCommand.pdb
