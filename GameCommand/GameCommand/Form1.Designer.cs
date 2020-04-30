@@ -33,8 +33,8 @@
             this.lbcommand2 = new System.Windows.Forms.ListBox();
             this.btnTo1 = new System.Windows.Forms.Button();
             this.btnTo2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnSaveT1 = new System.Windows.Forms.Button();
+            this.btnSaveT2 = new System.Windows.Forms.Button();
             this.domainUpDownShow = new System.Windows.Forms.DomainUpDown();
             this.lbShowCommand = new System.Windows.Forms.ListBox();
             this.domainUpDown3 = new System.Windows.Forms.DomainUpDown();
@@ -92,31 +92,35 @@
             this.btnTo2.UseVisualStyleBackColor = false;
             this.btnTo2.Click += new System.EventHandler(this.btnTo2_Click);
             // 
-            // button3
+            // btnSaveT1
             // 
-            this.button3.Location = new System.Drawing.Point(25, 194);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(120, 23);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Save Team 1";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnSaveT1.Location = new System.Drawing.Point(25, 194);
+            this.btnSaveT1.Name = "btnSaveT1";
+            this.btnSaveT1.Size = new System.Drawing.Size(120, 23);
+            this.btnSaveT1.TabIndex = 2;
+            this.btnSaveT1.Text = "Save Team 1";
+            this.btnSaveT1.UseVisualStyleBackColor = true;
+            this.btnSaveT1.Click += new System.EventHandler(this.btnSaveT1_Click);
             // 
-            // button4
+            // btnSaveT2
             // 
-            this.button4.Location = new System.Drawing.Point(466, 194);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(120, 23);
-            this.button4.TabIndex = 2;
-            this.button4.Text = "Save Team 2";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnSaveT2.Location = new System.Drawing.Point(466, 194);
+            this.btnSaveT2.Name = "btnSaveT2";
+            this.btnSaveT2.Size = new System.Drawing.Size(120, 23);
+            this.btnSaveT2.TabIndex = 2;
+            this.btnSaveT2.Text = "Save Team 2";
+            this.btnSaveT2.UseVisualStyleBackColor = true;
+            this.btnSaveT2.Click += new System.EventHandler(this.btnSaveT2_Click);
             // 
             // domainUpDownShow
             // 
             this.domainUpDownShow.Location = new System.Drawing.Point(262, 272);
             this.domainUpDownShow.Name = "domainUpDownShow";
+            this.domainUpDownShow.ReadOnly = true;
             this.domainUpDownShow.Size = new System.Drawing.Size(120, 20);
             this.domainUpDownShow.TabIndex = 4;
-            this.domainUpDownShow.Text = "domainUpDown1";
+            this.domainUpDownShow.Text = "Team 1";
+            this.domainUpDownShow.SelectedItemChanged += new System.EventHandler(this.domainUpDownShow_SelectedItemChanged);
             // 
             // lbShowCommand
             // 
@@ -193,8 +197,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.domainUpDown3);
             this.Controls.Add(this.domainUpDownShow);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnSaveT2);
+            this.Controls.Add(this.btnSaveT1);
             this.Controls.Add(this.btnFrom2);
             this.Controls.Add(this.btnTo2);
             this.Controls.Add(this.btnFrom1);
@@ -205,6 +209,7 @@
             this.Controls.Add(this.lbcommand1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -218,8 +223,8 @@
         private System.Windows.Forms.ListBox lbcommand2;
         private System.Windows.Forms.Button btnTo1;
         private System.Windows.Forms.Button btnTo2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btnSaveT1;
+        private System.Windows.Forms.Button btnSaveT2;
         private System.Windows.Forms.DomainUpDown domainUpDownShow;
         private System.Windows.Forms.ListBox lbShowCommand;
         private System.Windows.Forms.DomainUpDown domainUpDown3;

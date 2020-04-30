@@ -1,14 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace GameCommand
 {
-     class Unit
+    [Serializable]
+    [XmlInclude(typeof(Swordsman)), XmlInclude(typeof(Archer)), XmlInclude(typeof(Wizard))]
+    public class Unit
     {
-         public virtual string KindName { get;protected set; }
-        
+        public virtual string KindName { get; set; }
     }
 }

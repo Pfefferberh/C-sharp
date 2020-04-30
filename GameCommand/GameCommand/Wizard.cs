@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GameCommand
 {
-    class Wizard:Unit
+    [Serializable]
+    public class Wizard : Unit
     {
         public Wizard()
         {
