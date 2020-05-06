@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\bin\Debug\CityTask.exe.config
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\bin\Debug\CityTask.exe
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\bin\Debug\CityTask.pdb
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.LookCity.resources
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.exe
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.pdb
+C:\Users\User\Desktop\Step\C#\CityTask\CityTask\obj\Debug\CityTask.csprojAssemblyReference.cache

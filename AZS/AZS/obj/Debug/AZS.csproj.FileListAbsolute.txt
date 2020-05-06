@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Step\C#\AZS\AZS\bin\Debug\AZS.exe.config
+C:\Users\User\Desktop\Step\C#\AZS\AZS\bin\Debug\AZS.exe
+C:\Users\User\Desktop\Step\C#\AZS\AZS\bin\Debug\AZS.pdb
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.Form1.resources
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.Properties.Resources.resources
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.exe
+C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.pdb
