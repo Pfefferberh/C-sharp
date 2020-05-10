@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\bin\Debug\Test pazl.exe.config
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\bin\Debug\Test pazl.exe
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\bin\Debug\Test pazl.pdb
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test pazl.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test_pazl.Properties.Resources.resources
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test pazl.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test pazl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test pazl.exe
+C:\Users\User\Desktop\Step\С#class work\Test pazl\Test pazl\obj\Debug\Test pazl.pdb
