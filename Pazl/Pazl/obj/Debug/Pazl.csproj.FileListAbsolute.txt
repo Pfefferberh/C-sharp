@@ -8,3 +8,13 @@ C:\Users\User\Desktop\Step\C#\Pazl\Pazl\obj\Debug\Pazl.csproj.GenerateResource.c
 C:\Users\User\Desktop\Step\C#\Pazl\Pazl\obj\Debug\Pazl.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Step\C#\Pazl\Pazl\obj\Debug\Pazl.exe
 C:\Users\User\Desktop\Step\C#\Pazl\Pazl\obj\Debug\Pazl.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\bin\Debug\Pazl.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\bin\Debug\Pazl.exe
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\bin\Debug\Pazl.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.Pazl.resources
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.exe
+C:\Users\Рома\Desktop\Step\C-sharp\Pazl\Pazl\obj\Debug\Pazl.pdb

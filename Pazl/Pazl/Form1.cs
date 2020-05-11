@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Pazl
@@ -46,41 +40,60 @@ namespace Pazl
             pb25.AllowDrop = true;
 
             pbSklad.AllowDrop = true;
-           
-
         }
         private void pictureBox1_DragEnter_1(object sender, DragEventArgs e)
         {
-            e.Effect = DragDropEffects.Copy;   
+            e.Effect = DragDropEffects.Copy;
         }
         private void pictureBox1_DragDrop_1(object sender, DragEventArgs e)
         {
             PictureBox picture = sender as PictureBox;
-           
-            if (picture != pbSklad)
-            tempPicBox.Image = picture.Image;
+
+            if (picture.Name == pbSklad.Name && tempPicBox.Image != null)
+            {
+                imageList1.Images.Add(tempPicBox.Image);
+                tempPicBox.Image = null;
+                hScrollBar1.Maximum = hScrollBar1.Maximum + 1;
+            }
+            else if (tempPicBox.Name == pbSklad.Name && picture.Image != null)
+            {              
+                imageList1.Images.Add(picture.Image);
+                hScrollBar1.Maximum = hScrollBar1.Maximum + 1;
                 picture.Image = tempImage;
-            hScrollBar1_Scroll(null,null);
+            }
+            else if (picture != pbSklad)
+            {
+                tempPicBox.Image = picture.Image;
+                picture.Image = tempImage;
+            }
+            hScrollBar1_Scroll(null, null);
         }
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
         {
             PictureBox picture = sender as PictureBox;
+
             tempImage = picture.Image;
             tempPicBox = picture;
-            if (picture == pbSklad)
+
+            if (picture.Name == pbSklad.Name)
+            {
                 imageList1.Images.RemoveAt(hScrollBar1.Value);
-            picture.DoDragDrop(picture.Image, DragDropEffects.Copy);
+                hScrollBar1.Maximum = imageList1.Images.Count - 1;
+            }
+            if (imageList1.Images.Count == 0)
+            {
+                pbSklad.Visible = false;
+                hScrollBar1.Visible = false;
+            }
+            picture.DoDragDrop(picture, DragDropEffects.Copy);
         }
         private void Pazl_Load(object sender, EventArgs e)
         {
-            for (int i = 0; i < imageList1.Images.Count; i++)
-                pbSklad.Image = imageList1.Images[i];
+            pbSklad.Image = imageList1.Images[0];
+            hScrollBar1.Maximum = imageList1.Images.Count - 1;           
         }
-
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-            hScrollBar1.Maximum = imageList1.Images.Count-1;
-            Text = imageList1.Images.Count.ToString();
             pbSklad.Image = imageList1.Images[hScrollBar1.Value];
         }
     }

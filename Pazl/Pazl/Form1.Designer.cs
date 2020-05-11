@@ -390,6 +390,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
             this.groupBox1.Controls.Add(this.pb25);
             this.groupBox1.Controls.Add(this.pb24);
             this.groupBox1.Controls.Add(this.pb23);
@@ -454,7 +455,7 @@
             // 
             // pbSklad
             // 
-            this.pbSklad.Location = new System.Drawing.Point(560, 96);
+            this.pbSklad.Location = new System.Drawing.Point(491, 28);
             this.pbSklad.Name = "pbSklad";
             this.pbSklad.Size = new System.Drawing.Size(101, 65);
             this.pbSklad.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -467,7 +468,7 @@
             // hScrollBar1
             // 
             this.hScrollBar1.LargeChange = 1;
-            this.hScrollBar1.Location = new System.Drawing.Point(560, 164);
+            this.hScrollBar1.Location = new System.Drawing.Point(491, 96);
             this.hScrollBar1.Name = "hScrollBar1";
             this.hScrollBar1.Size = new System.Drawing.Size(101, 31);
             this.hScrollBar1.TabIndex = 3;
@@ -477,7 +478,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(722, 383);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(619, 298);
             this.Controls.Add(this.hScrollBar1);
             this.Controls.Add(this.pbSklad);
             this.Controls.Add(this.groupBox1);
