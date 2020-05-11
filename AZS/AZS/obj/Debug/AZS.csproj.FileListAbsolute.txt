@@ -8,3 +8,13 @@ C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.csproj.GenerateResource.cach
 C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.exe
 C:\Users\User\Desktop\Step\C#\AZS\AZS\obj\Debug\AZS.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\bin\Debug\AZS.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\bin\Debug\AZS.exe
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\bin\Debug\AZS.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.Form1.resources
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.exe
+C:\Users\Рома\Desktop\Step\C-sharp\AZS\AZS\obj\Debug\AZS.pdb
