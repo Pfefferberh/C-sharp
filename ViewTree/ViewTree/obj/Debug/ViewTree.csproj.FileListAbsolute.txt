@@ -1,0 +1,10 @@
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\bin\Debug\ViewTree.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\bin\Debug\ViewTree.exe
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\bin\Debug\ViewTree.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.exe
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\ViewTree\ViewTree\obj\Debug\ViewTree.PROVODNIIIIK.resources

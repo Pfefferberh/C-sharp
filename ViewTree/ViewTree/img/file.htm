@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="origin-when-cross-origin">
+<style>
+    /* open-sans-regular - cyrillic_latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Open Sans Regular'), local('OpenSans-Regular'),
+            url('/resources/fonts/open-sans-v17-cyrillic_latin-regular.woff2') format('woff2'), 
+            url('/resources/fonts/open-sans-v17-cyrillic_latin-regular.woff') format('woff');
+    }
+
+    /* lora-700 - cyrillic_latin */
+    @font-face {
+        font-family: 'Lora';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: local('Lora Bold'), local('Lora-Bold'),
+            url('/resources/fonts/lora-v14-cyrillic_latin-700.woff2') format('woff2'),
+            url('/resources/fonts/lora-v14-cyrillic_latin-700.woff') format('woff');
+    }
+    </style>
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" crossorigin>
+<base href="https://beginpc.ru/windows/what-is-file">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="компьютер, файл, windows, чайник, начинающий, пользователь, обучение, свойства">
+<meta name="description" content="Объяснение простым языком, что такое файл для начинающих компьютерных пользователей.">
+<title>Что такое файл | BeginPC.ru</title>
+<link href="https://beginpc.ru/windows/what-is-file" rel="canonical">
+<link href="/templates/livecomp/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/templates/livecomp/css/new.css?v=4" rel="stylesheet" type="text/css">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<script data-ad-client="ca-pub-4391180145495977" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+<!--LiveInternet counter-->
+        <script type="text/javascript"><!--
+        new Image().src = "//counter.yadro.ru/hit?r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+        ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";h"+escape(document.title.substring(0,80))+
+        ";"+Math.random();//--></script><!--/LiveInternet--><div class="container">
+    <a href="#content" class="skiptocontent">Перейти к основному содержанию</a>
+    <header itemscope itemtype="http://schema.org/WPHeader"><meta itemprop="headline" content="Что такое файл">
+<meta itemprop="description" content="Объяснение простым языком, что такое файл для начинающих компьютерных пользователей.">
+<meta itemprop="keywords" content="компьютер, файл, windows, чайник, начинающий, пользователь, обучение, свойства">
+<div id="icons-head">
+            <a href="/search" aria-label="Поиск" title="Поиск">
+                <svg class="icon-header" width="25" height="25" viewbox="0 0 25 25" xmlns="http://www.w3.org/2000/svg"><g><path d="m24.2143,21.26622l-5.91616,-5.03179c-0.61159,-0.55042 -1.26567,-0.80311 -1.79408,-0.77872c1.3966,-1.63583 2.2402,-3.75816 2.2402,-6.07773c0,-5.17286 -4.19341,-9.36627 -9.36627,-9.36627c-5.17282,0 -9.36627,4.1934 -9.36627,9.36627s4.1934,9.36627 9.36627,9.36627c2.31956,0 4.44191,-0.84359 6.07773,-2.2402c-0.02439,0.52837 0.2283,1.1824 0.77872,1.79398l5.03173,5.91621c0.8616,0.95726 2.26897,1.03796 3.12741,0.17943c0.85857,-0.85853 0.77799,-2.26591 -0.17928,-3.12746zm-14.83631,-5.64406c-3.44855,0 -6.24418,-2.79568 -6.24418,-6.24418c0,-3.44854 2.79563,-6.24418 6.24418,-6.24418c3.4485,0 6.24418,2.79564 6.24418,6.24418c0,3.4485 -2.79559,6.24418 -6.24418,6.24418z"></path></g></svg></a>
+              <a href="/login" aria-label="Авторизация" title="Войти">
+                <svg class="icon-header" width="25" height="25" viewbox="0 0 25 25" xmlns="http://www.w3.org/2000/svg"><g><path d="m12.5,0.00001c-4.79359,0 -8.70624,3.57036 -8.70624,7.9446c0,2.7339 1.53126,5.1664 3.84785,6.59685c-4.43663,1.73627 -7.5791,5.75275 -7.5791,10.42729l2.4875,0c0,-5.02856 4.43935,-9.07954 9.94999,-9.07954c5.51065,0 9.94999,4.05099 9.94999,9.07954l2.4875,0c0,-4.67454 -3.14247,-8.69102 -7.5791,-10.42729c2.31659,-1.43046 3.84785,-3.86296 3.84785,-6.59685c0,-4.37424 -3.91265,-7.9446 -8.70625,-7.9446zm0,2.26989c3.44925,0 6.21875,2.52721 6.21875,5.67472c0,3.1475 -2.7695,5.67471 -6.21875,5.67471c-3.44925,0 -6.21875,-2.52721 -6.21875,-5.67471c0,-3.1475 2.76949,-5.67472 6.21875,-5.67472z"></path></g></svg></a>
+              <a aria-label="Подписаться на RSS" title="Подписаться на канал новостей" href="http://feeds.feedburner.com/beginpc" rel="noopener noreferrer nofollow" target="_blank">
+                <svg class="icon-header" width="25" height="25" viewbox="0 0 25 25" xmlns="http://www.w3.org/2000/svg"><g><path d="m12.47705,25.01265c-6.93896,0.02508 -12.63363,-5.74991 -12.47811,-12.79423c0.15052,-6.72327 5.71979,-12.29754 12.65875,-12.21723c6.85874,0.08025 12.51827,5.79 12.3427,12.83438c-0.17063,6.70312 -5.69468,12.21723 -12.52334,12.17707zm10.99806,-12.49319c-0.04016,-6.15127 -4.90195,-10.92275 -10.74718,-11.04822c-6.05088,-0.12541 -11.19867,4.73639 -11.19867,11.03821c0,6.16128 4.91699,10.91768 10.75215,11.03815c6.03087,0.1204 11.13847,-4.73139 11.1937,-11.02814z"></path><path d="m5.26214,8.32999c0,-0.9332 0,-1.84139 0,-2.75452c7.11966,-0.26088 14.32954,6.04087 14.27938,14.54523c-0.90312,0 -1.80624,0 -2.72943,0c-0.06023,-3.19097 -1.13392,-5.97564 -3.35159,-8.26856c-2.22768,-2.29792 -4.97219,-3.45692 -8.19835,-3.52216z"></path><path d="m11.95529,20.14078c-0.03509,-3.77304 -3.04552,-6.84867 -6.69315,-6.85367c0,-0.91313 0,-1.83132 0,-2.74444c4.71631,-0.21579 9.5079,4.07908 9.40751,9.59812c-0.44652,0 -0.89305,0 -1.34464,0s-0.89812,0 -1.36972,0z"></path><path d="m9.05025,18.18406c0.005,1.08376 -0.84792,1.95172 -1.90159,1.94672c-1.0436,-0.005 -1.89656,-0.86803 -1.90656,-1.93171c-0.00504,-1.07368 0.84792,-1.94672 1.9116,-1.94165c1.05864,0.005 1.89152,0.84789 1.89656,1.92664z"></path></g></svg></a>
+        </div>
+        <div class="header-inner">
+            <a class="brand" href="/">
+                <span class="site-title" title="Компьютер для новичков">BeginPC.ru</span>
+            </a>
+            <p>Компьютер для новичков и не только</p>
+        </div>
+    </header><nav class="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="navbar pull-left">
+        	<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+        		<span class="icon-bar"></span>
+        		<span class="icon-bar"></span>
+        		<span class="icon-bar"></span>
+        	</a>
+        </div>
+        <div class="nav-collapse">
+        	<ul class="nav menu nav-pills mod-list">
+<li class="item-101 default"><a href="/" itemprop="url">Главная</a></li>
+<li class="item-102"><a href="/hardware" itemprop="url">Комплектующие</a></li>
+<li class="item-103 current active"><a href="/windows" itemprop="url">Windows</a></li>
+<li class="item-104"><a href="/internet" itemprop="url">Интернет</a></li>
+<li class="item-105"><a href="/raznoe" itemprop="url">Разное</a></li>
+<li class="item-106"><a href="/test-computer" itemprop="url">О компьютере</a></li>
+</ul>
+</div>
+    </nav><main id="content"><div class="wrapper">
+            
+            <div id="system-message-container">
+	</div>
+            <div class="moduletable_TopArticle">
+
+		
+			
+
+<div class="custom_TopArticle">
+	</div>
+
+		</div>
+
+	
+<article class="item-page" itemscope itemtype="https://schema.org/Article"><meta itemprop="inLanguage" content="ru-RU">
+<div class="page-header">
+		<h1 itemprop="headline">
+            Что такое файл        </h1>
+							</div>
+					
+		
+	
+	
+		
+					
+        
+		<div class="begin"> <img src="/images/windows/file.jpg" alt="иконка файла" width="280" height="350" itemprop="image">
+</div>
+			<div itemprop="articleBody">
+		
+<p>В реальном мире люди разбивают всю информацию на удобные для восприятия и использования части. Каждую фотографию печатают на отдельной карточке, песни имеют небольшую длину, книги имеют удобные размеры и объединённое общим смыслом содержание. Это делается для удобства поиска, хранения и использования. В компьютере вся информация хранится в виде нулей и единиц. Чтобы облегчить всем жизнь ввели понятие файл.</p>
+<p>Мы не будем давать здесь разные технические определения, что такое файл, после прочтения которых все становится еще более непонятно, а постараемся простыми словами донести суть. Фактически это определённый объем структурированной информации, объединенной общим смыслом и собранной в одной оболочке. Это и есть файл. Из них состоят все программы и все данные, которые пользователь хранит в компьютере. Размер файла выбирается исходя из здравого смысла и ограничений <a href="/windows/file-system-windows" title="Что такое файловая система">файловой системы</a>. Например, каждый отчет, фотография, фильм, песня или книга обычно отдельный файл. Никто не печатает всё собрание сочинений А.С. Пушкина в одной книге, так как она займет много места, будет тяжелая, трудно найти нужное место и просто неудобно пользоваться.</p>
+<h2>Свойства файла</h2>
+<p><strong>Имя файла</strong></p>
+<p>Возникает вопрос, как компьютер и мы с вами отличаем один файл от другого. Очень просто, как и в жизни у файлов есть имена, по которым их можно идентифицировать. Имя файла состоит из собственно имени и расширения файла. Имя может состоять из заглавных и строчных букв любого алфавита, цифр и некоторых специальных символов. Ограничение на длину имени в разных файловых системах различно. При попытке <a href="/windows/operations-with-files-and-folders" title="Операции с файлами в компьютере">создать</a> файл с недопустимым именем, операционная система выдаст ошибку и покажет и её причину.</p>
+<p>Расширение служит для указания типа файла. Другими словами помогает компьютеру определить программу, с помощью которой можно открыть его, а так же помогает человеку быстро понять тип содержащейся в нём информации. Выглядит, как несколько последних символов после точки в имени файла. Например, «Readme.txt». В современной файловой системе NTFS расширение является условностью, в отличие от более ранних версий. Фактически оно виртуально и имя файла может иметь несколько расширений сразу, например «.tar.gz».</p>
+<p>Среди наиболее распространенных типов можно выделить:</p>
+<ul>
+<li>.txt — простой текстовый документ;</li>
+<li>.doc, .docx, .docm, .rtx — форматированный текстовый документ;</li>
+<li>.xls, .xlsx, .xlsm, .ods — электронные таблицы;</li>
+<li>.jpg, .jpeg, .gif, .png — растровая графика;</li>
+<li>.mp3, .ogg, .wma — музыкальные;</li>
+<li>.mpeg, .264, .avi — видео;</li>
+<li>.rar, .zip, .tg — архивы;</li>
+<li>.exe, .cmd, .bat — исполняемые;</li>
+</ul>
+<p>и многие другие. Внутри одной папки все имена файлов должны быть уникальны. В случае попытки сделать совпадающие имена, система покажет предупреждение и варианты решения данной проблемы.</p>
+<p><strong>Размер файла</strong></p>
+<p>Размер в <a href="/windows/units-of-information" title="Что такое биты, байты, килобайты и так далее...">байтах</a>, килобайтах, мегабайтах, гигабайтах.</p>
+<p><strong>Время</strong></p>
+<p>Могут присутствовать время создания, время последнего изменения и время последнего доступа.</p>
+<p><strong>Атрибуты файла</strong></p>
+<p>Дополнительные метки, указывающие на определенные особенности данного файла.</p>
+<ul>
+<li>Только чтение — файл запрещено изменять;</li>
+<li>Скрытый — не отображается в Проводнике, если в настройках не указано отображать скрытые файлы;</li>
+<li>Системный — критический для работы операционной системы;</li>
+<li>Архивный — был изменен после <a href="/windows/rezervnoe-kopirovaniya-windows-7" title="Настройка резервного копирования">резервного копирования</a> или не был скопирован программой резервного копирования;</li>
+</ul>
+<div class="pr_article">
+
+</div>
+<p><strong>Права доступа к файлу</strong></p>
+<p>Операционная система Windows позволяет задавать права на доступ к файлу отдельным пользователям или группам. К ним относятся права на чтение, запись, удаление и т.д. <a href="/windows/user-account-in-windows" title="Учетные записи пользователей в компьютере">Администратор</a> компьютера может запретить доступ другому пользователю к некоторым файлам или папкам. Право назначается в виде разрешения или запрещения. Запрет имеет более высокий приоритет, так если доступ к папке и всему её содержимому разрешен, а доступ к конкретному файлу в этой папке запрещен для этого <a href="/windows/zapusk-programmy-ot-imeni-drugogo-polzovatelya-v-windows" title="Запуск программ от имени другого пользователя">пользователя</a>, то он не сможет открыть этот файл.</p>
+<h2>Как выглядит файл на компьютере</h2>
+<p>Фактически все, что вы видите в <a href="/windows/nastroika-vneshnego-vida-provodnika-windows-7" title="Настройка Проводника">Проводнике</a> или файловом менеджере это файлы. Однако нам нужно научиться отличать файлы от папок и ярлыков (ссылок). Это довольно просто. Пойдем от противного все, что не папка и не ярлык, то файл. Посмотреть описание папки и ярлыка. Иконка файла может иметь любую форму, цвет, не похожа на папку и отсутствует стрелка в левом нижнем углу. Все это разные иконки файлов.</p>
+<p class="cent"><img loading="lazy" src="/images/windows/icons.png" alt="Иконки файлов в Windows" title="Пример иконок файлов" width="280" height="140" border="0"></p>
+<p>Справедливости ради, надо отметить, что существуют способы удалить стрелку с ярлыка, но мы не будем рассматривать такой случай.</p>
+<p>Если вы сомневаетесь, что перед вами или хотите узнать подробности этого объекта, можно кликнуть на нем. Проводник укажет тип выделенного файла и некоторые дополнительные характеристики.</p>
+<p class="cent"><img loading="lazy" src="/images/windows/file_folder.png" alt="Файл в Проводнике Windows" title="Выделенный файл в Проводнике" width="500" height="332" border="0"></p>
+<p>Или кликнуть по файлу правой кнопкой мыши и выбрать пункт свойства.</p>
+<p class="cent"><img loading="lazy" src="/images/windows/properties_file.png" alt="Свойства файла" title="Пример свойств файла в Проводнике Windows" width="425" height="550" border="0"></p>
+<p>Здесь отобразится подробная информация о файле, а так же можно настроить его внешний вид и другие параметры. Теперь вы знаете, что такое файл, и какие у него есть свойства.</p>	</div>
+
+	
+					    
+    		<div class="moduletable_social">
+
+		
+			
+
+<div class="custom_social">
+	<!-- AddThis Button BEGIN -->
+<div id="socialkey" class="addthis_inline_share_toolbox" style="visibility: hidden;">
+<p>Поделиться понравившейся статьей:</p>
+</div>
+<!-- AddThis Button END -->
+</div>
+
+		</div>
+
+	
+        
+		<div id="jc">
+
+<div id="comments"></div>
+<div id="comments-form-link">
+<a id="addcomments" class="showform" href="#addcomments" onclick="jcomments.showForm(3,'com_content', 'comments-form-link'); return false;">Добавить комментарий</a>
+</div>
+<div id="comments-footer"></div>
+</div>    
+    <dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <meta itemprop="name" content="BeginPC">
+</dd>
+    
+    <dd itemprop="publisher" itemtype="http://schema.org/Organization" itemscope>
+        <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <link itemprop="url image" href="/images/logo_site.png"></span>
+        
+        <meta itemprop="name" content="BeginPC.ru">
+<meta itemprop="telephone" content="">
+<meta itemprop="address" content="Россия">
+</dd>
+
+    <time datetime="2013-01-07T22:20:00+04:00" itemprop="datePublished"></time><time datetime="2020-04-02T18:11:25+03:00" itemprop="dateModified"></time><link itemprop="mainEntityOfPage" href="https://beginpc.ru/windows/what-is-file"></article><div class="breadcrumbs" aria-label="breadcrumbs" role="navigation"> 
+	<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+<li>
+				Вы здесь:  
+			</li>
+		
+						<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+											<a itemprop="item" href="/" class="pathway"><span itemprop="name">Главная</span></a>
+					
+											<span class="divider">
+													</span>
+										<meta itemprop="position" content="1">
+</li>
+							<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+											<a itemprop="item" href="/windows" class="pathway"><span itemprop="name">Windows</span></a>
+					
+											<span class="divider">
+													</span>
+										<meta itemprop="position" content="2">
+</li>
+							<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+					<span itemprop="name">
+						Что такое файл					</span>
+					<meta itemprop="position" content="3">
+</li>
+				</ul>
+</div>
+
+        </div>
+    </main><aside id="right-col"><div class="well ">
+
+<div class="custom">
+	<!-- Yandex.RTB R-A-518495-3 -->
+<div id="yandex_rtb_R-A-518495-3"></div>
+<script type="text/javascript">(function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-518495-3",
+                renderTo: "yandex_rtb_R-A-518495-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");</script>
+</div>
+</div>
+<div class="well ">
+<h3 class="page-header">Рекомендуемое</h3>
+<ul class="mostread mod-list">
+<li>
+		<a href="/windows/ochishchaem-papku-winsxs-windows-7-pravilno">
+			<span>
+				Очищаем папку WinSxS в Windows 7 правильно			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/windows/propal-znachok-smeny-yazyka-na-paneli-zadach">
+			<span>
+				Пропал значок смены языка на панели задач			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/internet/spisok-onlayn-kursov-dlya-samoizolyacii">
+			<span>
+				Как провести время на самоизоляции с пользой			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/windows/komandnaya-stroka">
+			<span>
+				Командная строка в Windows			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/windows/zapusk-programmy-ot-imeni-drugogo-polzovatelya-v-windows">
+			<span>
+				Запуск программы от имени другого пользователя в Windows			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/hardware/chto-takoe-materinskaya-plata">
+			<span>
+				Что такое материнская плата			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/internet/chto-takoe-browser">
+			<span>
+				Что такое браузер			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/hardware/operativnaya-pamyat-kompyutera">
+			<span>
+				Оперативная память компьютера			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/hardware/what-is-video-card">
+			<span>
+				Что такое видеокарта			</span>
+		</a>
+	</li>
+	<li>
+		<a href="/windows/nastroika-vneshnego-vida-provodnika-windows-7">
+			<span>
+				Настройка внешнего вида проводника в Windows 7			</span>
+		</a>
+	</li>
+</ul>
+</div>
+    </aside>
+</div>
+        
+<footer><div id="copyright">
+        <nav itemscope itemtype="http://schema.org/SiteNavigationElement"><ul class="nav menu mod-list">
+<li class="item-133"><a href="/kontakty" itemprop="url">Контакты</a></li>
+<li class="item-150"><a href="/map" itemprop="url">Карта сайта</a></li>
+</ul></nav><p>© 2013-2020 Компьютер для новичков. Все права защищены.</p>
+		<p>При перепечатке или копировании материалов индексируемая ссылка на сайт обязательна.</p>
+    </div>
+    <!--noindex-->
+	<div id="counters">
+		<!--LiveInternet logo-->
+        <a href="//www.liveinternet.ru/click" target="_blank" rel="nofollow noopener"><img src="//counter.yadro.ru/logo?11.2" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="счетчик" border="0" width="88" height="31"></a>
+        <!--/LiveInternet-->
+        <!-- Yandex.Metrika counter -->
+				<script type="text/javascript">
+				var yaParams = {ip: "92.52.139.128"};
+				(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+				m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+				(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+				
+				ym(51773795, "init", {
+						id:51773795,
+						params:window.yaParams,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+				});
+				</script><noscript><div><img src="https://mc.yandex.ru/watch/51773795" style="position:absolute; left:-9999px;" alt="счетчик ya"></div></noscript>
+				<!-- /Yandex.Metrika counter -->
+	</div>
+    <!--/noindex-->
+    <svg id="to-up" alt="стрелка вверх страницы" tabindex="0" width="50" height="50" viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><g><ellipse stroke-width="2" ry="24" rx="24" cy="25" cx="25" stroke="#bfe2ff" fill="#2775a5"></ellipse></g><g><path fill="#ffffff" d="m39.71009,33.30704c0,0.8333 -0.67551,1.50881 -1.5088,1.50881l-13.20167,-5.6579l-13.20179,5.65796c-0.83336,0 -1.5088,-0.67556 -1.5088,-1.50887l13.57893,-24.51747c0,0 1.1316,-1.1316 2.26308,0c1.13166,1.13166 13.57905,24.51747 13.57905,24.51747z"></path></g></svg><script defer src="/templates/livecomp/js/jui/jquery.min.js"></script>
+<script defer src="/media/jui/js/bootstrap.min.js"></script>
+<script defer src="/templates/livecomp/js/work.js?v=5"></script>
+</footer><script type="text/javascript">
+<!--
+
+function jcLoad() {
+ 
+    jcomments=new JComments(3, 'com_content','/component/jcomments/');
+    jcomments.setList('comments-list');
+
+    //if (typeof (antiCache) === "function" ) {
+    
+        antiCache(); 
+    //} else {setTimeout(function() { antiCache() }, 50);}
+}
+-->
+</script>
+<script>
+
+<!--
+
+function antiCache() {
+    
+    jcomments.setAntiCache(1,1,1);
+    
+}
+
+-->
+</script>
+</body>
+</html>
