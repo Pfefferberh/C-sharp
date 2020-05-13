@@ -1,0 +1,11 @@
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\bin\Debug\TelefonBook.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\bin\Debug\TelefonBook.exe
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\bin\Debug\TelefonBook.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.Child.resources
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.Parent.resources
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.exe
+C:\Users\Рома\Desktop\Step\C-sharp\TelefonBook\TelefonBook\obj\Debug\TelefonBook.pdb
