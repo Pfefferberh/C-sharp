@@ -1,0 +1,20 @@
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEdit.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEditor3000.Properties.Resources.resources
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEdit.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEdit.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\bin\Debug\TextEditor3000.exe.config
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\bin\Debug\TextEditor3000.exe
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\bin\Debug\TextEditor3000.pdb
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEdit.TextEdits.resources
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEditor3000.exe
+C:\Users\Рома\Desktop\Новая папка\C-Sharp-WinForm\TextEditor3000\TextEditor3000\obj\Debug\TextEditor3000.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\bin\Debug\TextEditor3000.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\bin\Debug\TextEditor3000.exe
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\bin\Debug\TextEditor3000.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEdit.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEditor3000.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEdit.TextEdits.resources
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEdit.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEdit.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEditor3000.exe
+C:\Users\Рома\Desktop\Step\C-sharp\TextEdit\TextEditor3000\obj\Debug\TextEditor3000.pdb
