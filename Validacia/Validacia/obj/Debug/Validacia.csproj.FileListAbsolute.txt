@@ -1,0 +1,10 @@
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validation.Registration.resources
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\bin\Debug\Validacia.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\bin\Debug\Validacia.exe
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\bin\Debug\Validacia.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.exe
+C:\Users\Рома\Desktop\Step\C-sharp\Validacia\Validacia\obj\Debug\Validacia.pdb
