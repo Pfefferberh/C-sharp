@@ -12,5 +12,6 @@ namespace EXAM
             qwest = new List<string>();
             tryest = new List<int>();
         }
+       // public int TrueAns { get { };  }
     }
 }

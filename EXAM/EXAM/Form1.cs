@@ -62,7 +62,8 @@ namespace EXAM
                 Mark = 0;
             else
                 Mark = checkTrue - checkFalse;
-
+            checkedListBox1.Items.Clear();
+            checkedListBox1.Visible=false;
             label1.Text = "Your resaul :  true " + checkTrue.ToString() + "             false " + checkFalse.ToString()+ $"\nYour mark :  {Mark}";
         }
     }

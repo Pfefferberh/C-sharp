@@ -36,6 +36,7 @@ namespace EXAM
                         qwest = new Qwestion();
                     }
                 }
+                childTEstForm.listqwest.Add(qwest);
             }
         }
         private void buttonStart_Click(object sender, EventArgs e)
