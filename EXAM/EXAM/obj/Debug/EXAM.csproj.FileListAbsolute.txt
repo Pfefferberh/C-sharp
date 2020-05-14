@@ -1,0 +1,11 @@
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\bin\Debug\EXAM.exe.config
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\bin\Debug\EXAM.exe
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\bin\Debug\EXAM.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.csprojAssemblyReference.cache
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.TEst.resources
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.Properties.Resources.resources
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.exe
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.pdb
+C:\Users\Рома\Desktop\Step\C-sharp\EXAM\EXAM\obj\Debug\EXAM.StartForm.resources
